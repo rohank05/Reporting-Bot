@@ -1,10 +1,9 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const prefix = '-';
-const guildID = '711260726181756969';
-const token = 'NzExMjU5NjUzNDg4NTA4OTc4.XsAaYA.fTItm3-dpEBpnfmJjHwo_W_GzZU';
-var n =0;
-var color;
+const guildID = '';
+const token = '';
+
 
 
 
